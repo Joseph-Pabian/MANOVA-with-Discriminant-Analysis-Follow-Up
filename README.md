@@ -46,38 +46,11 @@ Rather than conducting multiple independent ANOVAs, this project applies a **mul
 
 ---
 
-## Tools & Technologies
+## Tools
 - **R**
 - `foreign` (SPSS data import)
 - `psych` (multivariate diagnostics)
 - `candisc` (canonical discriminant analysis)
 - Base R multivariate modeling functions
 
----
-
-## Repository Structure
-- `analysis/` – R scripts for MANOVA, diagnostics, and follow-ups  
-- `results/` – Key outputs and summary tables  
-- `report/` – Written interpretation of findings  
-
----
-
-## Why This Project Matters
-This project demonstrates:
-- Appropriate use of **multivariate methods** over repeated univariate testing
-- Thoughtful handling of **assumptions and effect sizes**
-- Ability to translate statistical output into **clear, substantive conclusions**
-- Reproducible analytical workflows using R
-
-The analytical approach mirrors tasks common in **data analytics, behavioral research, consulting, and applied data science roles**.
-
----
-
-## Skills Demonstrated
-- Multivariate statistical modeling (MANOVA)
-- Discriminant analysis interpretation
-- Effect size estimation
-- Assumption diagnostics
-- Reproducible analysis in R
-- Statistical communication for technical and non-technical audiences
 
